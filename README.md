@@ -14,9 +14,9 @@ Fundraising Portal is a application built using Flutter that simulates an intern
 
 ---
 
-## 🛠️ Tech Stack Used
+## 🛠️ Tech Used
 
-- **Frontend:** Flutter
+- **Framework:** IdxProject, FlutterFlow
 
 ---
 
@@ -25,7 +25,7 @@ Fundraising Portal is a application built using Flutter that simulates an intern
 
 ## 📱 App Structure & UI Flow
 
-The Intern Portal Flutter app consists of **three main pages** and follows a simple, intuitive user navigation flow:
+The Intern Portal Flutter app consists of **four main pages** and follows a simple, intuitive user navigation flow:
 
 ---
 
